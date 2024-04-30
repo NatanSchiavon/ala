@@ -2,9 +2,9 @@
     --cor-de-fundo: #1e1e1e; 
     --verde: #6257ff; 
     --branco: #ffffffc0; 
-    --botao-ativo: #5c1ead; 
-    --botao-inativo: rgba(58, 55, 94, 0.5); 
-    --texto-fundo: rgba(58, 55, 94, 0.3); 
+    --botao-ativo: #79c9f8; 
+    --botao-inativo: rgba(123, 176, 219, 0.5); 
+    --texto-fundo: rgba(164, 205, 233, 0.3); 
 }
 body{ /*define estilização geral do conteúdo da página*/
     background-color: var(--cor-de-fundo); /*cor do fundo / var declara a variável criada em root*/
